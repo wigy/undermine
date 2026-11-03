@@ -1,0 +1,9 @@
+{
+  "name": "undermine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dig-and-pump arcade game with modern graphics. Open index.html to play.",
+  "scripts": {
+    "test": "node --test"
+  }
+}
